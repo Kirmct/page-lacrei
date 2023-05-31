@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O blog mostra a listagem de blogs, comentários e usuários da API.
 
-- [Visite o projeto online](linkaq)
+- [Visite o projeto online](https://desafio-lacrei.onrender.com/)
 
 ---
 
